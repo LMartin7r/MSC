@@ -1,4 +1,7 @@
-This is where you can find all the Supplementary Tables, that cannot fit in the thesis work.
-Supplementary_Table_1.xlsx contains all the candidate DMRs. This is the output file that the RoAM computational pipeline gives.
-Supplementary_Table_2.xlsx contains all the candidate DMRs in a descending order, where the first one has the biggest Max Qt value.
-Supplementary_Table_3.xlsx contains the top 50 DMRs in descending order, where the first one has the biggest Max Qt value, but in this table all the DMRs are in the Gene body, the Promoter region and are in CPG islands.
+This repository contains the supplementary tables associated with this thesis. Due to their size, these datasets could not be included in the main text.
+
+Supplementary Table S1 (Supplementary_Table_1.xlsx) contains the complete list of candidate differentially methylated regions (DMRs) identified by the RoAM computational pipeline. The table includes genomic coordinates, CpG counts, methylation statistics, Qt values, and genomic annotations.
+
+Supplementary Table S2 (Supplementary_Table_2.xlsx) contains the same set of candidate DMRs ranked in descending order based on their maximum Qt values, allowing prioritization of regions with the strongest inferred signal.
+
+Supplementary Table S3 (Supplementary_Table_3.xlsx) contains the top 50 candidate DMRs (ranked by maximum Qt value), restricted to regions overlapping gene bodies, promoter regions, and CpG islands, representing loci with the highest potential regulatory relevance.
